@@ -1,5 +1,5 @@
 {
-    "name": "anydoor",
+    "name": "anydoor-zhanghuguang",
     "version": "0.1.0",
     "description": "tiny nodejs web server",
     "main": "src/app.js",
@@ -16,19 +16,19 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Samaritan89/anydoor.git"
+        "url": "git+https://github.com/zhanghuguang/anydoor.git"
     },
     "keywords": [
         "static",
         "webserver"
     ],
-    "author": "Samaritan89",
-    "email": "sunluyong@gmail.com",
+    "author": "zhanghuguang",
+    "email": "zhanghuguang1014@gmail.com",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Samaritan89/anydoor/issues"
+        "url": "https://github.com/zhanghuguang/anydoor/issues"
     },
-    "homepage": "https://github.com/Samaritan89/anydoor#readme",
+    "homepage": "https://github.com/zhanghuguang/anydoor#readme",
     "devDependencies": {
         "babel-eslint": "^7.2.3",
         "eslint": "^4.5.0",
